@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Interests
+I'm interested in Rust.
+
 <!--
 **rnisi621/rnisi621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
