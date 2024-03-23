@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Interests
+### My Interests
 I'm interested in Rust.
 
 <!--
